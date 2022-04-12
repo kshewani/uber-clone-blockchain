@@ -1,3 +1,17 @@
+This an application which demonstrates basic features of a ride sharing plaform (like Uber). Below are the main features it provides:
+1. Select PickUp and DropOff locations on a map.
+2. Displays PickUp and DropOff coordinates on the map.
+3. Allows to choose a ride type from a list of available rides, for e.g. UberX, UberXL, UberBlack etc.
+4. Calculates the amount to be paid (in ethers) based on the distance and selected ride.
+5. Allows to pay for the ride (in ethers) to uber account and approve the payment using metamask wallet.
+
+Tools used:
+Mapping: Mabbox from https://www.mapbox.com/mapbox-gljs
+Deployment and testing: Vercel on https://vercel.com/
+Database: https://www.sanity.io/
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
